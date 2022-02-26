@@ -1,29 +1,64 @@
-# dnd-tools
+# Dungeons and Dragon Tools
 
-## Project setup
-```
-npm install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+A page where you can get information about DnD spells, items, classes and also use a dice generator!
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Technologies Used
 
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
+For this project the technologies and tools used were:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Vue
+- Tailwind
+- Typescript
+- NPM
+- Cypress
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#
+
+## Installation
+
+Work in progress.
+
+#
+
+## Utilization
+
+Work in progress.
+
+#
+
+## Challenges Faced
+
+Work in progress.
+
+#
+
+## What I learned
+
+Work in progress.
+
+#
+
+## Support
+
+If some error should appear, you can contact me through:
+
+- Twitter: @patoraedler
+- Email: patoraedler@gmail.com
+
+#
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate :)
+
+#
+
+## Author
+
+Patrick Raedler.
+
+#
